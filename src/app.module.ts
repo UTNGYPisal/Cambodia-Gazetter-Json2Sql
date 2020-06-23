@@ -15,7 +15,7 @@ import { Connection } from 'typeorm';
       host: 'localhost',
       port: 3306,
       username: 'root',
-      password: 'root',
+      password: '',
       database: 'masterlist',
       entities: [
         Province, 
